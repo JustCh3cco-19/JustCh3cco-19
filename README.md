@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustCh3cco-19 or you can call me Francesco :)
 - 👀 I’m interested in programming, artificial intelligence (deep learning, machine learning), web development, Formula 1 CS applications
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning Computer Science and working for Sapienza FastCharge Formula Student Electric as a Software Engineer
 - 📫 How to reach me on Linkedin at: https://www.linkedin.com/in/francesco-zompanti/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i'm a swimmer (ex semi-pro)
