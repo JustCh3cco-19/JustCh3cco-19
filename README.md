@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, artificial intelligence (deep learning, machine learning), Formula 1
 - 🌱 I’m currently a Computer Science student and a Software Engineer for [Sapienza Fast Charge Formula Student Electric](https://www.linkedin.com/company/fast-charge)
 
-- 📫 How to reach me on Linkedin at: [Francesco Zompanti - LinkedIn]https://www.linkedin.com/in/francesco-zompanti/
+- 📫 How to reach me on Linkedin at: [Francesco Zompanti - LinkedIn](https://www.linkedin.com/in/francesco-zompanti)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i'm a swimmer, i love music, go to gigs and i never stop learning :)
 
