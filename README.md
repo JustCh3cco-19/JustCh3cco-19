@@ -1,6 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi, I’m Francesco :)<br><br>👀 I’m interested in Programming, Artificial Intelligence, Deep Learning, Machine Learning, Software Engineering in Formula 1<br><br>🌱 I’m a Computer Science student @ Università degli Studi di Roma "La Sapienza" and a Software Engineer @ [Sapienza Fast Charge Formula Student Electric](https://www.linkedin.com/company/fast-charge)<br><br>📫 How to reach me on Linkedin at: [Francesco Zompanti](https://www.linkedin.com/in/francesco-zompanti)<br><br>😄 Pronouns: he/him<br><br>⚡ Fun fact: i love fast cars like F1 and Ferrari, i'm a swimmer, i love music and i never stop learning new things :)
-
+<br>👋 Hi, I’m Francesco :)<br><br>👀 I’m interested in Programming, Artificial Intelligence, Deep Learning, Machine Learning, and Software Engineering in Formula 1<br><br>🌱 I’m a Computer Science student @ Università degli Studi di Roma "La Sapienza" and a Software Engineer @ <a href="https://www.linkedin.com/company/fast-charge" target="_blank">Sapienza Fast Charge – Formula Student Electric</a><br><br>📫 How to reach me on LinkedIn: <a href="https://www.linkedin.com/in/francesco-zompanti" target="_blank">Francesco Zompanti</a><br><br>😄 Pronouns: he/him<br><br>⚡ Fun fact: I love fast cars like F1 and Ferrari, I’m a swimmer, I love music, and I never stop learning new things :)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francesco-zompanti) 
