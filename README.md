@@ -1,6 +1,6 @@
 # 💫 About Me
 
-👋 Hi, I'm **Francesco** — passionate about technology, speed, and continuous learning.
+👋 Hi, I'm **Francesco**. I'm passionate about technology, speed, and continuous learning.
 
 🎓 I'm currently studying **Computer Science** at *Università degli Studi di Roma "La Sapienza"* and working as a **Software Engineer** at [Sapienza Fast Charge Formula Student Electric Team](https://www.linkedin.com/company/fast-charge).
 
