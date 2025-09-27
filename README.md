@@ -10,7 +10,7 @@
 - Machine Learning applied to real-time systems  
 - Motorsport innovation, especially **Formula 1**
 
-🔗 You can reach me on [LinkedIn:Francesco Zompanti](https://www.linkedin.com/in/francesco-zompanti)
+🔗 You can reach me on [LinkedIn](https://www.linkedin.com/in/francesco-zompanti)
 
 💡 Fun facts:
 - I'm a **swimmer**, a **music lover**, and a fan of **Ferrari & F1**  
