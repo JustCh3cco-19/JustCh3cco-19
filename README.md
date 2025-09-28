@@ -2,7 +2,7 @@
 
 👋 Hi, I'm **Francesco**. I'm passionate about technology, speed, and continuous learning.
 
-🎓 I'm currently studying **Computer Science** at *Università degli Studi di Roma "La Sapienza"* and working as a **Software Engineer** at [Sapienza Fast Charge Formula Student Electric Team](https://www.linkedin.com/company/fast-charge).
+🎓 I'm currently studying **Computer Science** at *Università degli Studi di Roma "La Sapienza"* and working as a **Software Engineer** at [Sapienza Fast Charge Formula Student Electric Team](https://www.linkedin.com/company/fast-charge)
 
 🚀 My main interests include:
 - Programming & Software Engineering  
@@ -10,7 +10,7 @@
 - Machine Learning applied to real-time systems  
 - Motorsport innovation, especially **Formula 1**
 
-🔗 You can reach me on [LinkedIn](https://www.linkedin.com/in/francesco-zompanti)
+🔗 You can reach me on [LinkedIn](https://www.linkedin.com/in/francesco-zompanti) and on my [Website](https://justch3cco-19.github.io)!
 
 💡 Fun facts:
 - I'm a **swimmer**, a **music lover**, and a fan of **Ferrari & F1**  
