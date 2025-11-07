@@ -1,19 +1,19 @@
 # 💫 About Me
 
-👋 Hi, I'm **Francesco**. I'm passionate about technology, speed, and continuous learning.
+👋 Hi, I'm **Francesco Zompanti**
 
-🎓 I'm currently studying **Computer Science** at *Università degli Studi di Roma "La Sapienza"* and working as a **Software Engineer** at [Sapienza Fast Charge Formula Student Electric Team](https://www.linkedin.com/company/fast-charge)
+🎓 I'm a Software Engineer and Head of Business & Management at [Sapienza Fast Charge Formula Student Electric Team](https://www.linkedin.com/company/fast-charge) and currently studying **Computer Science** at *Sapienza University of Rome* 
 
 🚀 My main interests include:
 - Software Engineering  
 - Artificial Intelligence 
-- Motorsport innovation
+- Motorsport
 
-🔗 You can reach me on [LinkedIn](https://www.linkedin.com/in/francesco-zompanti) and on my [Website](https://justch3cco-19.github.io)!
+🔗 You can reach me on [LinkedIn](https://www.linkedin.com/in/francesco-zompanti) and on my [Website](francescozompanti.com)!
 
 💡 Fun facts:
-- I'm a **swimmer**, a **music lover**, and a fan of **Ferrari & F1**  
-- I love building things, solving problems, and never stop learning
+- I'm a **swimmer**, a **music lover**, and a motorsport enthusiast  
+- I love building things, solving problems and never stop learning
 
 😄 Pronouns: he/him
 
