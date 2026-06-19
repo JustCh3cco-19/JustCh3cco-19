@@ -9,7 +9,7 @@
 - Artificial Intelligence 
 - Motorsport
 
-🔗 You can reach me on [LinkedIn](https://www.linkedin.com/in/francesco-zompanti) and on my [Website](https://francescozompanti.com)!
+🔗 You can reach me on [LinkedIn](https://www.linkedin.com/in/francesco-zompanti) and on my [Website](https://justch3cco-19.github.io)!
 
 💡 Fun facts:
 - I'm a **swimmer**, a **music lover**, and a motorsport enthusiast  
