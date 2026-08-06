@@ -1,16 +1,16 @@
 <div align="center">
 
-# Hi, I'm Francesco Zompanti 👋
+# Hi, I'm Francesco Zompanti 🏎️
 
-### Computer Science Student · Software Engineer · Motorsport Enthusiast
+### Software Engineer | Embedded Systems | AI
 
-**Engineering motorsport speed with code and smart solutions.**
+Software Engineer focused on embedded systems, autonomous vehicles,  
+artificial intelligence and industrial software development.
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-justch3cco--19.github.io-F97316?style=for-the-badge&logo=githubpages&logoColor=white)](https://justch3cco-19.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francesco_Zompanti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-zompanti)
-[![GitHub](https://img.shields.io/badge/GitHub-JustCh3cco--19-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JustCh3cco-19)
+[Portfolio](https://justch3cco-19.github.io/) ·
+[GitHub](https://github.com/JustCh3cco-19)
 
 </div>
 
@@ -18,153 +18,196 @@
 
 ## About Me
 
-I am a **Computer Science student at Sapienza University of Rome** and a **Software Engineer in the ADAS division of Sapienza Fast Charge**, Sapienza University's Formula Student Electric team.
+I am a **Software Engineer** passionate about embedded systems, autonomous vehicles, artificial intelligence and industrial software development.
 
-My work focuses on bringing autonomous racing systems to life through software.
+I currently work at [**Fast Charge Engineering**](https://www.fceitalia.it/), where I develop:
 
-I combine my interests in **motorsport**, **software engineering**, **autonomous systems** and **data analysis** to develop reliable solutions both on the track and in the codebase.
+- Embedded software for battery systems
+- Automated testing solutions
+- CAN-based diagnostic and data acquisition tools
+- Production and validation workflow automations
+- Custom Odoo ERP applications
 
-My main areas of interest include:
+I am also the **ADAS Technical Responsible** of the [**Sapienza Fast Charge Formula Student Electric Team**](https://sapienzafastcharge.it/), leading the development of the **Software Architecture** and **Telemetry** subsystems for an autonomous Formula Student race car.
 
-- Autonomous driving software
-- Distributed and modular architectures
-- Vehicle telemetry and real-time data processing
-- Computer vision and artificial intelligence
-- Embedded and high-performance computing
-- Software integration, simulation and testing
+Alongside my professional experience, I am pursuing a **Bachelor's degree in Computer Science** at **Sapienza University of Rome**.
 
----
-
-## Formula Student
-
-### Software Engineer — ADAS Division
-
-[**Sapienza Fast Charge Formula Student Electric Team**](https://www.linkedin.com/company/fast-charge)  
-`December 2023 — Present`
-
-I contribute to the development of the software architecture for a self-driving electric race car competing in Formula Student.
-
-My work includes:
-
-- Developing software for autonomous vehicle subsystems
-- Designing modular architectures based on **ROS 2**
-- Integrating distributed components for perception, planning and control
-- Developing real-time solutions with a focus on performance and hardware compatibility
-- Deploying and validating software on **NVIDIA Jetson AGX Orin**
-- Balancing computational load, communication performance and safety requirements
-- Working with telemetry data to analyze and improve vehicle performance
-
----
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Client-Server Architecture in C
-
-A secure and multithreaded client-server system for transferring files over TCP.
-
-The project implements concurrent connections, POSIX threads, a structured communication protocol and 64-bit XOR encryption.
-
-**Technologies**
-
-`C` `TCP/IP` `POSIX Threads` `Linux`
-
-<br>
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JustCh3cco-19/system-programming)
-
-</td>
-<td width="50%" valign="top">
-
-### C Preprocessor
-
-A modular preprocessor developed in C for source-code analysis and transformation.
-
-It supports recursive `#include` expansion, comment removal, identifier validation, logging and robust error handling.
-
-**Technologies**
-
-`C` `Linux` `Systems Programming`
-
-<br>
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JustCh3cco-19/myPreCompiler)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Microservices Architecture
-
-A simulated autonomous system based on independent microservices.
-
-Computer vision, SLAM, path planning and high-level control run in separate Docker containers and communicate through RabbitMQ.
-
-**Technologies**
-
-`Python` `Docker` `RabbitMQ` `Linux`
-
-<br>
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JustCh3cco-19/microservices-architetcture)
-
-</td>
-<td width="50%" valign="top">
-
-### More Projects
-
-My repositories include projects related to systems programming, artificial intelligence, computer vision, distributed architectures and software engineering.
-
-<br>
-
-[![Repositories](https://img.shields.io/badge/Explore_All_Repositories-F97316?style=flat-square&logo=github&logoColor=white)](https://github.com/JustCh3cco-19?tab=repositories)
-
-</td>
-</tr>
-</table>
+I enjoy designing reliable and efficient software that bridges hardware, data and real-world applications.
 
 ---
 
 ## Tech Stack
 
-### Languages
+### Programming and Computing
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+`C` `C++` `CUDA` `Python` `Bash` `MATLAB`
 
-### Autonomous Systems and Engineering
+### Embedded and Automotive
 
-![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat-square)
-![NVIDIA](https://img.shields.io/badge/Jetson_AGX_Orin-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+`CAN Bus` `Embedded Systems` `NVIDIA Jetson AGX Orin`
 
-### Infrastructure and Tools
+### Robotics and Artificial Intelligence
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+`ROS 2` `OpenCV` `YOLO` `Simulink`
 
-### Web Development
+### Infrastructure and Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+`Linux` `Git` `Docker` `RabbitMQ`
+
+### Enterprise Software
+
+`Odoo`
+
+---
+
+## Projects
+
+### 01 — TennisVision
+
+An AI-powered tennis analysis system that uses computer vision to detect players, track the ball and generate match statistics from video footage.
+
+The project applies deep learning and image processing techniques to automate tennis performance analysis.
+
+**Technologies:**  
+`Python` `Computer Vision` `OpenCV` `YOLO` `Deep Learning`
+
+[View repository →](https://github.com/JustCh3cco-19/TennisVision)
+
+---
+
+### 02 — Vehicle Routing Problem Solver
+
+A solver implementing optimization algorithms for the **Vehicle Routing Problem**, focusing on efficient route planning and resource allocation under operational constraints.
+
+**Technologies:**  
+`C` `CUDA` `Optimization Algorithms` `Operations Research`
+
+[View repository →](https://github.com/JustCh3cco-19/VehicleRoutingProblem)
+
+---
+
+### 03 — WASA Text
+
+A full-stack real-time messaging application featuring:
+
+- User authentication
+- Chat management
+- RESTful APIs
+- Persistent data storage
+
+**Technologies:**  
+`Go` `Vue.js` `REST API` `SQLite` `Web Development`
+
+[View repository →](https://github.com/JustCh3cco-19/WASAText)
+
+---
+
+### 04 — Secure Multithreaded File Transfer System
+
+A secure multithreaded client-server application developed in C using TCP sockets and POSIX threads.
+
+The system supports:
+
+- Concurrent file transfers
+- A custom communication protocol
+- 64-bit XOR encryption
+- Robust error handling
+
+**Technologies:**  
+`C` `Networking` `Linux` `POSIX Threads` `Operating Systems`
+
+[View repository →](https://github.com/JustCh3cco-19/system-programming)
+
+---
+
+### 05 — C Source Code Preprocessor
+
+A modular C preprocessor supporting:
+
+- Recursive `#include` expansion
+- Comment removal
+- Identifier validation
+- Detailed logging
+- Comprehensive error handling
+
+**Technologies:**  
+`C` `Linux` `Parsing` `Operating Systems`
+
+[View repository →](https://github.com/JustCh3cco-19/myPreCompiler)
+
+---
+
+### 06 — Autonomous Vehicle Microservices Platform
+
+A distributed autonomous vehicle simulation based on Docker microservices.
+
+Computer vision, SLAM, path planning and high-level control services run independently and communicate asynchronously through RabbitMQ.
+
+**Technologies:**  
+`Python` `Docker` `RabbitMQ` `Linux` `Microservices`
+
+[View repository →](https://github.com/JustCh3cco-19/microservices-architetcture)
+
+---
+
+## Experience
+
+### Software Engineer
+
+[**Fast Charge Engineering**](https://www.fceitalia.it/)  
+`March 2026 — Present`
+
+- Develop embedded software and automated testing tools for battery systems using C and Python.
+- Design CAN-based diagnostic, validation and data acquisition tools for battery modules and industrial devices.
+- Automate production and validation workflows to reduce manual operations and improve data traceability.
+- Develop custom Odoo ERP modules for Manufacturing, CRM, Project Management, production tracking and scheduling.
+- Maintain Linux-based development infrastructure, Docker environments, self-hosted Git services, NAS backup systems and CI workflows.
+
+---
+
+### Head of Business & Management
+
+[**Sapienza Fast Charge Formula Student Electric Team**](https://sapienzafastcharge.it/)  
+`September 2025 — Present`
+
+- Lead the Business & Management division, coordinating organizational, strategic and operational activities.
+- Manage sponsor relationships and support the development of technical and commercial partnerships.
+- Contribute to project planning, resource allocation and cross-functional team coordination.
+
+---
+
+### Social Media Manager
+
+[**Sapienza Fast Charge Formula Student Electric Team**](https://sapienzafastcharge.it/)  
+`September 2025 — Present`
+
+- Define and execute the team's communication strategy across multiple social media platforms.
+- Create technical and promotional content highlighting engineering achievements and competition activities.
+- Collaborate with sponsors and team members to improve online visibility and audience engagement.
+
+---
+
+### ADAS Technical Responsible
+
+[**Sapienza Fast Charge Formula Student Electric Team**](https://sapienzafastcharge.it/)  
+`October 2024 — Present`
+
+- Lead the development of the Software Architecture and Telemetry subsystems for an autonomous Formula Student race car.
+- Coordinate software architecture decisions and technical planning within the ADAS division.
+- Supervise the integration, testing and validation of autonomous driving software components.
+- Mentor team members and promote the development of reliable, maintainable and hardware-compatible software.
+
+---
+
+### ADAS Software Engineer
+
+[**Sapienza Fast Charge Formula Student Electric Team**](https://sapienzafastcharge.it/)  
+`October 2023 — October 2024`
+
+- Developed software for an autonomous Formula Student race car, contributing to control, telemetry and system integration.
+- Designed and implemented ROS 2-based modular architectures for distributed communication between vehicle subsystems.
+- Optimized real-time software with a focus on low-latency execution, reliability and hardware compatibility.
+- Deployed and validated software on NVIDIA Jetson AGX Orin, balancing computational load, communication efficiency and safety requirements.
 
 ---
 
@@ -172,41 +215,25 @@ My repositories include projects related to systems programming, artificial inte
 
 ### Bachelor of Science in Computer Science
 
-**Sapienza University of Rome**
-
+**Sapienza University of Rome**  
 `2023 — 2026`
 
-My academic interests include software engineering, operating systems, artificial intelligence, computer vision, distributed systems and data analysis.
+Relevant coursework:
 
----
-
-## Beyond Software
-
-Outside software development, I am:
-
-- A swimmer
-- A music lover
-- A motorsport enthusiast
-- Always interested in learning new technologies and building new projects
-
----
-
-## Contact
-
-I am open to discussing software engineering, autonomous systems, motorsport technology, Formula Student and new projects.
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Visit_My_Website-F97316?style=for-the-badge&logo=githubpages&logoColor=white)](https://justch3cco-19.github.io)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-zompanti)
-[![GitHub](https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JustCh3cco-19)
-
-</div>
+- Algorithms and Data Structures
+- Operating Systems
+- Computer Networks
+- Databases
+- Software Engineering
+- Artificial Intelligence
 
 ---
 
 <div align="center">
 
-<sub>Building reliable software for autonomous systems, one commit at a time.</sub>
+### Explore my work
+
+[Portfolio](https://justch3cco-19.github.io/) ·
+[Repositories](https://github.com/JustCh3cco-19?tab=repositories)
 
 </div>
