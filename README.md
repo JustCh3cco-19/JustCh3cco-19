@@ -179,7 +179,7 @@ Computer vision, SLAM, path planning and high-level control services run indepen
 ### Social Media Manager
 
 [**Sapienza Fast Charge Formula Student Electric Team**](https://sapienzafastcharge.it/)  
-`September 2025 — Present`
+`September 2025 — September 2026`
 
 - Define and execute the team's communication strategy across multiple social media platforms.
 - Create technical and promotional content highlighting engineering achievements and competition activities.
@@ -190,7 +190,7 @@ Computer vision, SLAM, path planning and high-level control services run indepen
 ### ADAS Technical Responsible
 
 [**Sapienza Fast Charge Formula Student Electric Team**](https://sapienzafastcharge.it/)  
-`October 2024 — Present`
+`October 2024 — September 2026`
 
 - Lead the development of the Software Architecture and Telemetry subsystems for an autonomous Formula Student race car.
 - Coordinate software architecture decisions and technical planning within the ADAS division.
