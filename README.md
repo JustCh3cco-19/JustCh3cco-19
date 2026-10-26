@@ -34,7 +34,7 @@ I currently work at [**Fast Charge Engineering**](https://www.fceitalia.it/), wh
 
 Alongside my professional career, I am the **Team Leader** of the [**Sapienza Fast Charge Formula Student Electric Team**](https://sapienzafastcharge.it/), coordinating a multidisciplinary university motorsport team involved in the design, development, and competition of electric and autonomous racing vehicles.
 
-After gaining technical experience in the team's **ADAS division**, where I worked on software architecture, telemetry, and autonomous driving systems, I transitioned into organizational and strategic leadership.
+After gaining technical experience in the team's **Autonomous System division**, where I worked on software architecture, telemetry, and autonomous driving systems, I transitioned into organizational and strategic leadership.
 
 My current responsibilities include:
 
