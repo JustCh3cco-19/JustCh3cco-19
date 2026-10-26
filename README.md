@@ -1,16 +1,19 @@
+
 <div align="center">
 
 # Hi, I'm Francesco Zompanti 🏎️
 
-### Software Engineer | Embedded Systems | AI
+### Software Engineer | Embedded Systems | AI | Team Leadership
 
-Software Engineer focused on embedded systems, autonomous vehicles,  
-artificial intelligence and industrial software development.
+Computer Science student and Software Engineer with experience in embedded systems, autonomous vehicles, artificial intelligence, and industrial software development.
+
+Combining technical engineering expertise with project management, strategic planning, and team leadership.
 
 <br>
 
 [Portfolio](https://justch3cco-19.github.io/) ·
-[GitHub](https://github.com/JustCh3cco-19)
+[GitHub](https://github.com/JustCh3cco-19) ·
+[LinkedIn](https://www.linkedin.com/in/francesco-zompanti/)
 
 </div>
 
@@ -18,21 +21,33 @@ artificial intelligence and industrial software development.
 
 ## About Me
 
-I am a **Software Engineer** passionate about embedded systems, autonomous vehicles, artificial intelligence and industrial software development.
+I am a **Software Engineer** and **Computer Science student at Sapienza University of Rome**, passionate about technology, motorsport, and the intersection between engineering, management, and business.
 
 I currently work at [**Fast Charge Engineering**](https://www.fceitalia.it/), where I develop:
 
 - Embedded software for battery systems
-- Automated testing solutions
+- Automated testing and validation solutions
 - CAN-based diagnostic and data acquisition tools
-- Production and validation workflow automations
+- Production and industrial workflow automations
 - Custom Odoo ERP applications
+- Linux-based development infrastructure and DevOps solutions
 
-I am also the **ADAS Technical Responsible** of the [**Sapienza Fast Charge Formula Student Electric Team**](https://sapienzafastcharge.it/), leading the development of the **Software Architecture** and **Telemetry** subsystems for an autonomous Formula Student race car.
+Alongside my professional career, I am the **Team Leader** of the [**Sapienza Fast Charge Formula Student Electric Team**](https://sapienzafastcharge.it/), coordinating a multidisciplinary university motorsport team involved in the design, development, and competition of electric and autonomous racing vehicles.
 
-Alongside my professional experience, I am pursuing a **Bachelor's degree in Computer Science** at **Sapienza University of Rome**.
+After gaining technical experience in the team's **ADAS division**, where I worked on software architecture, telemetry, and autonomous driving systems, I transitioned into organizational and strategic leadership.
 
-I enjoy designing reliable and efficient software that bridges hardware, data and real-world applications.
+My current responsibilities include:
+
+- Team coordination and cross-functional management
+- Strategic planning and project execution
+- Resource allocation and operational management
+- Sponsor relationships and external partnerships
+- Technical and organizational decision-making
+- Long-term team development
+
+I believe that successful engineering is not only about developing technology, but also about **bringing together people, processes, and technical expertise to achieve complex objectives**.
+
+My interests span **software engineering, embedded and autonomous systems, motorsport, project management, and technology-driven business operations**.
 
 ---
 
@@ -40,23 +55,27 @@ I enjoy designing reliable and efficient software that bridges hardware, data an
 
 ### Programming and Computing
 
-`C` `C++` `CUDA` `Python` `Bash` `MATLAB`
+`C` `C++` `CUDA` `Python` `Go` `Bash` `MATLAB`
 
 ### Embedded and Automotive
 
-`CAN Bus` `Embedded Systems` `NVIDIA Jetson AGX Orin`
+`CAN Bus` `Embedded Systems` `NVIDIA Jetson AGX Orin` `Automotive Software`
 
 ### Robotics and Artificial Intelligence
 
-`ROS 2` `OpenCV` `YOLO` `Simulink`
+`ROS 2` `OpenCV` `YOLO` `Simulink` `Computer Vision`
 
 ### Infrastructure and Development
 
-`Linux` `Git` `Docker` `RabbitMQ`
+`Linux` `Git` `Docker` `RabbitMQ` `CI/CD` `Microservices`
 
 ### Enterprise Software
 
-`Odoo`
+`Odoo` `ERP Development` `SQLite` `REST API`
+
+### Engineering and Management
+
+`Project Management` `Team Leadership` `Strategic Planning` `Operations Management` `Formula Student`
 
 ---
 
@@ -64,7 +83,7 @@ I enjoy designing reliable and efficient software that bridges hardware, data an
 
 ### 01 — TennisVision
 
-An AI-powered tennis analysis system that uses computer vision to detect players, track the ball and generate match statistics from video footage.
+An AI-powered tennis analysis system that uses computer vision to detect players, track the ball, and generate match statistics from video footage.
 
 The project applies deep learning and image processing techniques to automate tennis performance analysis.
 
@@ -152,62 +171,17 @@ Computer vision, SLAM, path planning and high-level control services run indepen
 
 ## Experience
 
-### Software Engineer
-
-[**Fast Charge Engineering**](https://www.fceitalia.it/)  
-`March 2026 — Present`
-
-- Develop embedded software and automated testing tools for battery systems using C and Python.
-- Design CAN-based diagnostic, validation and data acquisition tools for battery modules and industrial devices.
-- Automate production and validation workflows to reduce manual operations and improve data traceability.
-- Develop custom Odoo ERP modules for Manufacturing, CRM, Project Management, production tracking and scheduling.
-- Maintain Linux-based development infrastructure, Docker environments, self-hosted Git services, NAS backup systems and CI workflows.
-
----
-
-### Head of Business & Management
+### Team Leader
 
 [**Sapienza Fast Charge Formula Student Electric Team**](https://sapienzafastcharge.it/)  
-`September 2025 — Present`
+`October 2026 — Present`
 
-- Lead the Business & Management division, coordinating organizational, strategic and operational activities.
-- Manage sponsor relationships and support the development of technical and commercial partnerships.
-- Contribute to project planning, resource allocation and cross-functional team coordination.
-
----
-
-### Social Media Manager
-
-[**Sapienza Fast Charge Formula Student Electric Team**](https://sapienzafastcharge.it/)  
-`September 2025 — September 2026`
-
-- Define and execute the team's communication strategy across multiple social media platforms.
-- Create technical and promotional content highlighting engineering achievements and competition activities.
-- Collaborate with sponsors and team members to improve online visibility and audience engagement.
-
----
-
-### ADAS Technical Responsible
-
-[**Sapienza Fast Charge Formula Student Electric Team**](https://sapienzafastcharge.it/)  
-`October 2024 — September 2026`
-
-- Lead the development of the Software Architecture and Telemetry subsystems for an autonomous Formula Student race car.
-- Coordinate software architecture decisions and technical planning within the ADAS division.
-- Supervise the integration, testing and validation of autonomous driving software components.
-- Mentor team members and promote the development of reliable, maintainable and hardware-compatible software.
-
----
-
-### ADAS Software Engineer
-
-[**Sapienza Fast Charge Formula Student Electric Team**](https://sapienzafastcharge.it/)  
-`October 2023 — October 2024`
-
-- Developed software for an autonomous Formula Student race car, contributing to control, telemetry and system integration.
-- Designed and implemented ROS 2-based modular architectures for distributed communication between vehicle subsystems.
-- Optimized real-time software with a focus on low-latency execution, reliability and hardware compatibility.
-- Deployed and validated software on NVIDIA Jetson AGX Orin, balancing computational load, communication efficiency and safety requirements.
+- Lead a multidisciplinary Formula Student team developing electric and autonomous racing vehicles.
+- Coordinate technical, organizational, and business divisions, ensuring alignment between engineering development and strategic objectives.
+- Oversee project planning, resource allocation, operational priorities, and team performance.
+- Manage relationships with sponsors, industrial partners, university representatives, and external stakeholders.
+- Support technical and strategic decision-making across vehicle development and competition preparation.
+- Promote cross-functional collaboration, organizational efficiency, and long-term team development.
 
 ---
 
@@ -216,7 +190,7 @@ Computer vision, SLAM, path planning and high-level control services run indepen
 ### Bachelor of Science in Computer Science
 
 **Sapienza University of Rome**  
-`2023 — 2026`
+`2023 — Present`
 
 Relevant coursework:
 
@@ -234,6 +208,7 @@ Relevant coursework:
 ### Explore my work
 
 [Portfolio](https://justch3cco-19.github.io/) ·
-[Repositories](https://github.com/JustCh3cco-19?tab=repositories)
+[Repositories](https://github.com/JustCh3cco-19?tab=repositories) ·
+[LinkedIn](https://www.linkedin.com/in/francesco-zompanti/)
 
 </div>
