@@ -204,11 +204,3 @@ Relevant coursework:
 ---
 
 <div align="center">
-
-### Explore my work
-
-[Portfolio](https://justch3cco-19.github.io/) ·
-[Repositories](https://github.com/JustCh3cco-19?tab=repositories) ·
-[LinkedIn](https://www.linkedin.com/in/francesco-zompanti/)
-
-</div>
